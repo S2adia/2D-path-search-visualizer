@@ -3,8 +3,8 @@ import networkx as nx
 import random
 
 # Constants
-DIRECTIONS = [(-1, 0), (1, 0), (0, -1), (0, 1)]   #North, South, West, East
-FREE     = 0
+DIRECTIONS = [(-1, 0), (1, 0), (0, -1), (0, 1)] #North, South, West, East
+FREE = 0
 OBSTACLE = 1
 
 #grid generation
